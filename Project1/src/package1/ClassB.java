@@ -6,5 +6,6 @@ public static void main(String[] args)
 {
 System.out.println("Adding one more file");	
 System.out.println("missed a line");
+System.out.println("only first line not displayed");
 }
 }
