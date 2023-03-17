@@ -1,0 +1,15 @@
+Welcome to all of you.
+Automation is easy.
+Maven Introduction
+now for handling the xls format of excel file we will use JXL library
+for handling the xlsx format of excel file we will use apache poi library
+what do you mean by library ?
+which provides the built in classes and methods.
+JXL library-------------for handling the xls file format(read and write)
+Apache POI library------------------
+Selenium part---------------
+rest of the java topics we will do with selenium part
+Full stack--------------frontend + backend automation
+SDET--------------------frontend + backend automation + mobile(android + ios) + cloud
+
+
